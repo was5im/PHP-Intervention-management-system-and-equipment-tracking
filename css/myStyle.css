@@ -1,0 +1,123 @@
+.navcol{
+    background-color:#74b9ff ;
+    margin-right: 0px;
+    /*height: 50px;*/
+    width: 100%;
+    
+}
+
+/*#007bff  #74b9ff*/
+nav a{
+    color: #bcccdb;
+}
+
+.artisantitle{
+	font-size: 25px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.astyle{
+    font-size: 17px;
+    color: #fff;
+}
+
+
+.exempletitle{
+    font-size: 25px;
+    color: #d0d1d8;
+    font-weight: 300;
+}
+ /* #2c3e50  #005670*/
+.navdep{margin-left: 1200px;}
+.imgsize{width: 18%;}
+
+.footcol{background-color:#7293A8 ;
+}
+
+
+#sec1{
+background-image: url(../img/handshake.png);
+background-repeat: no-repeat;
+background-size: cover;
+/*height: 550px;*/
+margin: 0px;
+padding: 0px;
+padding-bottom: 130px;
+width: 100%;
+margin-right: 0px;
+background-repeat: no-repeat;
+}
+
+h5{color: #090973;
+}
+
+
+.row1{
+    display: flex;
+    justify-content: center;
+}
+.row2{
+  display: flex;
+    justify-content: center;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+}
+.rowh{
+    display: flex;
+   justify-content: center;
+    margin-top: 2%;
+  }
+.rowp{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+.acolor{
+    color:  #044b98;
+    
+}
+
+
+
+.footcol{margin: 0px;
+    padding: 0px;
+  width: 100%;
+margin-right: 0px;}
+
+    body{position: relative;}
+
+.cardstyle{
+    padding-bottom: 5%;
+
+    text-align: center;
+    margin-top: 20%;
+    opacity: 60%;
+    height: 100%;
+    
+   
+
+}
+
+.cardstyle:hover{    background-image: linear-gradient(#74b9ff, white);
+    transition: 1s;
+    opacity: 90%;
+}
+
+
+.butt{margin-top:12%;}  
+   
+
+
+
+
+.card-title{
+font-weight: bold;
+text-align: center;
+}
+
+
+.modalcont{background-image: linear-gradient(#74b9ff, white) ;}
